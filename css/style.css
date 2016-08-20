@@ -1,0 +1,23 @@
+
+
+.cointainer{
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+
+@media  screen and  (min-width:400px ) {
+    body {
+        background-color:blue;
+    }
+}
+
+@media  screen and  (min-width:600px ) {
+    body {
+        background-color:blue;
+    }
+}
+
